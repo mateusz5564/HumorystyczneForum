@@ -1,0 +1,10 @@
+*.pyc
+*~
+__pycache__
+memenv
+db.sqlite3
+/static
+.DS_Store
+**/*.pyc
+node_modules/
+build
